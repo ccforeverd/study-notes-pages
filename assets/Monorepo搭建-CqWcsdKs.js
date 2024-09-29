@@ -1,0 +1,8 @@
+import{u as o,j as e,F as r}from"./index-DzJl3zh7.js";import{E as d}from"./EndOfFile-DBOaNciS.js";const c={authors:["[ccforeverd](mailto:zh1045456074@163.com)"],date:"2024-07-30",title:"Monorepo 搭建",description:"Monorepo+pnpm 搭建"};function i(t){const n={a:"a",code:"code",div:"div",h1:"h1",h2:"h2",header:"header",p:"p",...o(),...t.components};return e.jsxs(e.Fragment,{children:[e.jsxs(n.header,{children:[e.jsxs(n.h1,{id:"monorepo-搭建",children:["Monorepo 搭建",e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#monorepo-搭建",children:e.jsx(n.div,{"data-autolink-icon":!0})})]}),e.jsx(n.div,{"data-authors":!0})]}),`
+`,e.jsx(n.div,{}),`
+`,e.jsxs(n.p,{children:[e.jsx(n.code,{children:"Monorepo"})," + ",e.jsx(n.code,{children:"pnpm"})," 搭建流程"]}),`
+`,e.jsxs(n.h2,{id:"文件结构",children:["文件结构",e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#文件结构",children:e.jsx(n.div,{"data-autolink-icon":!0})})]}),`
+`,e.jsx(r,{}),`
+`,e.jsxs(n.h2,{id:"跟文件说明",children:["跟文件说明",e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#跟文件说明",children:e.jsx(n.div,{"data-autolink-icon":!0})})]}),`
+`,e.jsxs(n.h2,{id:"目录说明",children:["目录说明",e.jsx(n.a,{"aria-hidden":"true",tabIndex:"-1",href:"#目录说明",children:e.jsx(n.div,{"data-autolink-icon":!0})})]}),`
+`,e.jsx(d,{originLink:"https://juejin.cn/post/7365793739891032064",imgUrl:"https://images.unsplash.com/photo-1616591938035-aff03cc039c1?q=80&w=3782&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"})]})}function h(t={}){const{wrapper:n}={...o(),...t.components};return n?e.jsx(n,{...t,children:e.jsx(i,{...t})}):i(t)}export{h as default,c as frontmatter};
